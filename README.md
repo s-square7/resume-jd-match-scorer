@@ -1,4 +1,4 @@
-# Résumé–JD Match Scorer · Siamese BiLSTM
+# Resume-JD Siamese BiLSTM Match Scorer
 
 > A deep neural network that reads a candidate's résumé and a job description with a **shared encoder** and predicts how well they match — Weak / Medium / Strong — along with a human-readable skill-coverage explanation.
 
