@@ -112,7 +112,7 @@ resume-jd-match-scorer/
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/resume-jd-match-scorer.git
+git clone https://github.com/s-square7/resume-jd-match-scorer.git
 cd resume-jd-match-scorer
 
 python -m venv .venv
